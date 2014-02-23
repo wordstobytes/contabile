@@ -7,7 +7,7 @@ Overview
 
 Contabile is deployed on the following stack.
 
-- OS: Ubuntu 12.04 LTS
+- OS: Debian Wheezy 64
 - Python: 2.7
 - Database: Postgres 9.1
 - Application Server: Gunicorn
